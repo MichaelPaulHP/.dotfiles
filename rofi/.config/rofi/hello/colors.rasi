@@ -1,0 +1,15 @@
+/* Color-Scheme */
+
+* {
+    BG:    #111a1f;
+    BGA:   #10171C;
+    FG:    #8D7856;
+    BDR:   #D32740ff;/*color rojo*/
+    SEL:   #A9C03Fff; /* A9C03Fffcolor verde*/
+    UGT:   #D4638900;/*color rosado*/
+	IMG:   #D46389ff;/*color rosado*/
+	ON:    #A3BE8Cff;/*color verde*/
+	OFF:   #BF616Aff;
+	ACCENT: #ff0000;
+}
+/*color red #111a1fff*/
